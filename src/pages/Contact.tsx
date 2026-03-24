@@ -5,7 +5,7 @@ import { Textarea } from "@/components/ui/textarea";
 import Layout from "@/components/Layout";
 import SectionWrapper from "@/components/SectionWrapper";
 import { motion } from "framer-motion";
-import { Send, Mail, MapPin } from "lucide-react";
+import { Send, Mail, MapPin, Phone } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
