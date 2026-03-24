@@ -22,8 +22,8 @@ const Footer = () => (
         </div>
         <div>
           <h4 className="font-semibold text-sm mb-4 text-foreground">Get in Touch</h4>
-          <p className="text-sm text-muted-foreground">hello@nexusai.com</p>
-          <p className="text-sm text-muted-foreground mt-1">San Francisco, CA</p>
+          <p className="text-sm text-muted-foreground">rahmanmahbub.pro@gmail.com</p>
+          <p className="text-sm text-muted-foreground mt-1">+1 507 335 2790</p>
         </div>
       </div>
       <div className="mt-10 pt-6 border-t border-border/50 text-center text-xs text-muted-foreground">

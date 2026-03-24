@@ -5,7 +5,7 @@ import { Textarea } from "@/components/ui/textarea";
 import Layout from "@/components/Layout";
 import SectionWrapper from "@/components/SectionWrapper";
 import { motion } from "framer-motion";
-import { Send, Mail, MapPin } from "lucide-react";
+import { Send, Mail, MapPin, Phone } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
@@ -39,11 +39,11 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Mail size={18} className="text-primary" />
-                hello@nexusai.com
+                rahmanmahbub.pro@gmail.com
               </div>
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
-                <MapPin size={18} className="text-primary" />
-                San Francisco, CA
+                <Phone size={18} className="text-primary" />
+                +1 507 335 2790
               </div>
             </div>
           </motion.div>
